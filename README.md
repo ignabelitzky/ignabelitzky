@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ignabelitzky
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C/C++ and Python
+- 🌱 I’m currently learning C/C++, Qt and a little of Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ignabelitzky@gmail.com
 
