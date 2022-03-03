@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C/C++, Qt and Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ignabelitzky@gmail.com
+- Please visit https://www.ignabelitzky.wordpress.com
 
 <!---
 ignabelitzky/ignabelitzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
