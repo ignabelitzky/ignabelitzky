@@ -45,7 +45,7 @@ I'm currently learning or improving:
 
 ### Links
 [![YouTube](https://img.shields.io/badge/-YouTube_ignabelitzky-000?&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCMUyiDL-LZ3d0I7uNpT5hAw)
-[![GMail](https://img.shields.io/badge/-Send_Mail-000?&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?fs=1&to=ignabelitzky@gmail.com&su=SUBJECT&body=BODY&tf=cm)
+[![GMail](https://img.shields.io/badge/-Send_mail-000?&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?fs=1&to=ignabelitzky@gmail.com&su=SUBJECT&body=BODY&tf=cm)
 
 <!---
 ignabelitzky/ignabelitzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
