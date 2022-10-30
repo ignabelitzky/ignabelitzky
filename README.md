@@ -20,6 +20,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
 ![Quartus](https://img.shields.io/badge/-Quartus-000?&logo=Quartus)
 ![nCurses](https://img.shields.io/badge/-nCurses-000?&logo=nCurses)
+![PonyORM](https://img.shields.io/badge/-PonyORM-000?&logo=Pony)
 
 ### IDE / Text Editors
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&logoColor=green)
@@ -30,6 +31,10 @@
 ![Intel](https://img.shields.io/badge/-9900KF-FFF?&logo=intel&logoColor=blue)
 ![GPU](https://img.shields.io/badge/-5700XT-FFF?&logo=amd&logoColor=red)
 ![RAM](https://img.shields.io/badge/-32GB-FFF?)
+
+### Links of interest
+[![YouTube](https://img.shields.io/badge/-Ignabelitzky-000?&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCMUyiDL-LZ3d0I7uNpT5hAw)
+[![GMail](https://img.shields.io/badge/-Gmail-000?&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?fs=1&to=ignabelitzky@gmail.com&su=SUBJECT&body=BODY&tf=cm)
 
 <!---
 ignabelitzky/ignabelitzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
