@@ -18,6 +18,7 @@ I'm currently learning or improving:
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 
 ### Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
