@@ -28,6 +28,7 @@ I'm currently learning or improving:
 ![Quartus](https://img.shields.io/badge/-Quartus-000?&logo=Quartus)
 ![OmNet++](https://img.shields.io/badge/-OmNet++-000?&logo=Omnet)
 ![Bash](https://img.shields.io/badge/-bash-000?&logo=gnu-bash)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira&logoColor=blue)
 
 ### IDE / Text Editors
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&logoColor=green)
