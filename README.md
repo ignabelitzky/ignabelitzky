@@ -1,6 +1,6 @@
 ## About me
-Hi! I'm Ignacio, a computer science student at UNC-FaMAF in Córdoba, Argentina   
-I'm currently learning or improving:
+**Hi! I'm Ignacio, a computer science student at UNC-FaMAF in Córdoba, Argentina   
+I'm currently learning or improving:**
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
