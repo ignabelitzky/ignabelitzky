@@ -9,8 +9,7 @@ I'm currently learning or improving:**
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 ![C#](https://img.shields.io/badge/-C_Sharp-000?&logo=csharp&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQLite)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
