@@ -18,6 +18,7 @@ I'm currently learning or improving:**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![Akka](https://img.shields.io/badge/-Akka-000?&logo=Scala)
 
 ### Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
