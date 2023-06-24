@@ -14,6 +14,7 @@ I'm currently learning or improving:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ### Frameworks
+![OpenMP](https://img.shields.io/badge/-OpenMP-000?&logo=OpenMP)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
