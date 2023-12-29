@@ -10,7 +10,7 @@ I'm currently learning or improving:**
 ![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=red)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQLite)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ### Frameworks
