@@ -44,7 +44,7 @@ I'm currently learning or improving:**
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora&logoColor=blue)
 ![Intel](https://img.shields.io/badge/-i9_9900KF-000?&logo=intel&logoColor=blue)
 ![GPU](https://img.shields.io/badge/-GPU_5700_XT-000?&logo=amd&logoColor=red)
-![RAM](https://img.shields.io/badge/-RAM_32_GB-000)
+![RAM](https://img.shields.io/badge/RAM%2032%20GB-black)
 
 ### Links
 [![YouTube](https://img.shields.io/badge/-YouTube_ignabelitzky-000?&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCMUyiDL-LZ3d0I7uNpT5hAw)
