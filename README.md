@@ -52,7 +52,7 @@ I'm currently learning or improving:**
 
 [![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignabelitzky)](https://github.com/ignabelitzky/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignabelitzky)](https://github.com/ignabelitzky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignabelitzky&layout=compact)](https://github.com/ignabelitzky/github-readme-stats&layout=compact)
 
 <!---
 ignabelitzky/ignabelitzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
