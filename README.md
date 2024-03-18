@@ -50,8 +50,8 @@ I'm currently learning or improving:**
 [![YouTube](https://img.shields.io/badge/-YouTube_ignabelitzky-000?&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCMUyiDL-LZ3d0I7uNpT5hAw)
 [![GMail](https://img.shields.io/badge/-Send_mail-000?&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?fs=1&to=ignabelitzky@gmail.com&su=SUBJECT&body=BODY&tf=cm)
 
-<img alt="my stats" align="left" width="45%" height=200px src="https://github-readme-stats.vercel.app/api?username=ignabelitzky"/>
-<img alt="my stats" align="left" width="45%" height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignabelitzky&layout=compact"/>
+<img alt="my stats" align="left" width="45%" height=150px src="https://github-readme-stats.vercel.app/api?username=ignabelitzky"/>
+<img alt="my stats" align="left" width="45%" height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignabelitzky&layout=compact"/>
 
 <!---
 ignabelitzky/ignabelitzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
