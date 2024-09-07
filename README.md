@@ -1,5 +1,5 @@
 ## About me
-**Hi! I'm Ignacio, a computer science student at UNC-FaMAF in Córdoba, Argentina   
+**Hi! I'm Ignacio, a computer science student at UNC-FaMAF in Córdoba, Argentina.   
 I'm currently learning or improving:**
 
 ### Languages
@@ -42,8 +42,8 @@ I'm currently learning or improving:**
 
 ### System
 ![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora&logoColor=blue)
-![Intel](https://img.shields.io/badge/-i9_9900KF-000?&logo=intel&logoColor=blue)
-![GPU](https://img.shields.io/badge/-GPU_5700_XT-000?&logo=amd&logoColor=red)
+![Intel](https://img.shields.io/badge/-Intel_Core_i9_9900KF-000?&logo=intel&logoColor=blue)
+![GPU](https://img.shields.io/badge/-AMD_Radeon_RX_5700_XT-000?&logo=amd&logoColor=red)
 ![RAM](https://img.shields.io/badge/RAM%2032%20GB-black)
 
 ### Links
