@@ -1,37 +1,41 @@
+
 # Hi, I'm Ignacio
 
-**Software Developer from Córdoba, Argentina.**  
-I build practical tools and desktop applications, with a focus on C++ and Python.
+**Software Developer from Córdoba, Argentina.**
+
+I develop desktop software with **C++ and Qt**, focusing on maintainable architecture, reliability, and performance. I'm also interested in parallel computing, performance optimization, and low-level programming.
 
 [Explore my portfolio →](https://ignaciobelitzky.dev)
 
 ### Languages
 
 ![C++](https://img.shields.io/badge/C++-181717?logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-181717?logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-181717?logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-181717?logo=sqlite&logoColor=54B4EB)
+![Python](https://img.shields.io/badge/Python-181717?logo=python&logoColor=3776AB)
 
-### Frameworks & Tools
+### Technologies & Tools
 
 ![Qt](https://img.shields.io/badge/Qt-181717?logo=qt&logoColor=41CD52)
-![OpenCV](https://img.shields.io/badge/OpenCV-181717?logo=opencv&logoColor=5C3EE8)
-![SFML](https://img.shields.io/badge/SFML-181717?logo=sfml&logoColor=8CC445)
-![FastAPI](https://img.shields.io/badge/FastAPI-181717?logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/React-181717?logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?logo=postgresql&logoColor=4169E1)
+![OpenMP](https://img.shields.io/badge/OpenMP-181717)
 ![Git](https://img.shields.io/badge/Git-181717?logo=git&logoColor=F05032)
 
-### Editors
+### Featured Projects
 
-![Vim](https://img.shields.io/badge/Vim-181717?logo=vim&logoColor=019733)
-![VS Code](https://img.shields.io/badge/VS_Code-181717)
+**[KineticBox 1D](https://github.com/ignabelitzky/kinetic-box-1d)**  
+A parallel simulation of a one-dimensional gas using C and OpenMP, involving stochastic interactions and statistical analysis. A code-improvement collaboration with researchers at FaMAF–UNC.
 
-### Get in touch
+**[Periodic Table](https://github.com/ignabelitzky/periodic-table)**  
+A desktop periodic table application developed with C++ and Qt for Linux.
 
-[LinkedIn](https://www.linkedin.com/in/ignacio-belitzky/) · [ignabelitzky@gmail.com](mailto:ignabelitzky@gmail.com)
+**[EasySubber](https://github.com/ignabelitzky/easy-subber)**  
+A Python application that generates subtitles from video files using Whisper, FFmpeg, and a graphical interface.
+
+### Get in Touch
+
+[LinkedIn](https://www.linkedin.com/in/ignacio-belitzky/) · [Email](mailto:ignabelitzky@gmail.com) · [Portfolio](https://ignaciobelitzky.dev)
 
 ### GitHub Stats
 
-<img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api?username=ignabelitzky&show_icons=true&hide_title=true&theme=dark" width="400px"/>
-<img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignabelitzky&layout=compact&theme=dark" width="300px"/>
+<img alt="GitHub statistics" align="center" src="https://github-readme-stats.vercel.app/api?username=ignabelitzky&show_icons=true&hide_title=true&theme=dark" width="400px"/>
+<img alt="Most used languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignabelitzky&layout=compact&theme=dark" width="300px"/>
