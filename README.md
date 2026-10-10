@@ -1,61 +1,37 @@
 # Hi, I'm Ignacio
-**Software Developer from Córdoba, Argentina**  
-I build practical, maintainable software and enjoy diving deep into new technologies.
 
-### What I'm currently working with or improving:
+**Software Developer from Córdoba, Argentina.**  
+I build practical tools and desktop applications, with a focus on C++ and Python.
 
-#### **Languages**
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
-![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=Csharp&logoColor=red)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQLite)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+[Explore my portfolio →](https://ignaciobelitzky.dev)
 
-#### **Frameworks & Tools**
-![SFML](https://img.shields.io/badge/-SFML-000?&logo=SFML)
-![OpenMP](https://img.shields.io/badge/-OpenMP-000?&logo=OpenMP)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![Akka](https://img.shields.io/badge/-Akka-000?&logo=Scala)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
-![Quartus](https://img.shields.io/badge/-Quartus-000?&logo=Quartus)
-![OmNet++](https://img.shields.io/badge/-OmNet++-000?&logo=Omnet)
+### Languages
 
-#### **IDE / Text Editors**
-![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim&logoColor=green)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code&logoColor=blue)
-![Sublime](https://img.shields.io/badge/-Sublime-000?&logo=sublime-text)
-![Atom](https://img.shields.io/badge/-Atom-000?&logo=atom&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-181717?logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-181717?logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-181717?logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717?logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-181717?logo=sqlite&logoColor=54B4EB)
 
-#### **System & Hardware**
-![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=fedora&logoColor=blue)
-![Intel](https://img.shields.io/badge/-Intel_Core_i9_9900KF-000?&logo=intel&logoColor=blue)
-![GPU](https://img.shields.io/badge/-AMD_Radeon_RX_5700_XT-000?&logo=amd&logoColor=red)
-![RAM](https://img.shields.io/badge/RAM%2032%20GB-black)
+### Frameworks & Tools
 
----
+![Qt](https://img.shields.io/badge/Qt-181717?logo=qt&logoColor=41CD52)
+![OpenCV](https://img.shields.io/badge/OpenCV-181717?logo=opencv&logoColor=5C3EE8)
+![SFML](https://img.shields.io/badge/SFML-181717?logo=sfml&logoColor=8CC445)
+![FastAPI](https://img.shields.io/badge/FastAPI-181717?logo=fastapi&logoColor=009688)
+![React](https://img.shields.io/badge/React-181717?logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-181717?logo=git&logoColor=F05032)
 
-### **Get in touch**
-[![YouTube](https://img.shields.io/badge/-YouTube_ignabelitzky-000?&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCMUyiDL-LZ3d0I7uNpT5hAw)
-[![GMail](https://img.shields.io/badge/-Send_mail-000?&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?fs=1&to=ignabelitzky@gmail.com&su=SUBJECT&body=BODY&tf=cm)
+### Editors
 
----
+![Vim](https://img.shields.io/badge/Vim-181717?logo=vim&logoColor=019733)
+![VS Code](https://img.shields.io/badge/VS_Code-181717)
 
-### **GitHub Stats**
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/ignacio-belitzky/) · [ignabelitzky@gmail.com](mailto:ignabelitzky@gmail.com)
+
+### GitHub Stats
+
 <img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api?username=ignabelitzky&show_icons=true&hide_title=true&theme=dark" width="400px"/>
 <img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignabelitzky&layout=compact&theme=dark" width="300px"/>
-
----
-
-Feel free to explore my repositories and projects!  
-**Let's build something amazing together!**
-
